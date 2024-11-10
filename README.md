@@ -1,2 +1,10 @@
-# exerc-cios-algoritmos-e-logica
-18 exercícios de lógica e algoritmos básicos realizados em sala de aula utilizando a linguagem Javascript.
+# 📄Descrição
+18 exercícios de lógica e algoritmo feitos em sala de aula.
+
+# 🛠️Tecnologias usadas
+- ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitev)
+
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+# 🔍Referências 
+Projeto feito em colaboração com a escola [Etec Uirapuru](https://www.etecuirapuru.com.br/).
